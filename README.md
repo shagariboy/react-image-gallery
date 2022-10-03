@@ -3,7 +3,7 @@
 <p>Gallery with images from the pixabay API. Tailwind css is built into workflow with postcss and autoprefixer.</p>
 
 
-##Software & Service Used
+## Software & Service Used
 - VsCode
 - GitHub Desktop
 - Netlify
