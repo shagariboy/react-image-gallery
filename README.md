@@ -27,3 +27,4 @@ npm run build
 
 
 ## Live link [here](https://timely-eclair-755f70.netlify.app//)
+![](https://github.com/shagariboy/react-image-gallery/blob/master/public/image_gallery.gif)
